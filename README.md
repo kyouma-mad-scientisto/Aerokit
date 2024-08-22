@@ -20,3 +20,4 @@ Schaltung CO2-Ampel<br />
 
 Schaltung LoRa Empfänger<br />
 ![LoRa Empfänger](https://github.com/kyouma-mad-scientisto/Aerokit/blob/main/CO2-Empf%C3%A4nger.JPG)
+
