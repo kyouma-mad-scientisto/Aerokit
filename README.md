@@ -13,4 +13,7 @@ Die benötigte Hardware wurde von den Organisatoren des Makeathons zur Verfügun
 1x Steckbrett<br />
 diverse Verbindungskabel<br />
 
-Bei meiner Implementierung habe ich zusätzlich noch ein LoRa Funkmodul ergänzt, welches die Daten verschlüsselt per LoRa an eine zentrale Stelle übermitteln kann, da zentralisierung eine wichtige Anforderung war, um alle Messdaten zu sammeln und evtl. nicht jeder Klassenraum über WLAN verfügt.
+Bei meiner Implementierung habe ich zusätzlich noch ein LoRa Funkmodul ergänzt, welches die Daten verschlüsselt per LoRa an eine zentrale Stelle übermitteln kann, da zentralisierung eine wichtige Anforderung war, um alle Messdaten zu sammeln und evtl. nicht jeder Klassenraum über WLAN verfügt.<br />
+
+![CO2-Ampel](https://github.com/kyouma-mad-scientisto/Aerokit/blob/main/CO2-Ampel.png)
+![LoRa Empfänger](https://github.com/kyouma-mad-scientisto/Aerokit/blob/main/CO2-Empf%C3%A4nger.JPG)
